@@ -1,5 +1,5 @@
 cask "filtre" do
-  version "1.0.0"
+  version "1.0.01"
   sha256 "8373c3c81cafe88416d322f48ea2e4d945eff0a93901fd31ff15e8f0cb735054"
 
   url "https://github.com/msrexe/filtre/releases/download/v#{version}/filtre-#{version}-arm64.dmg"
